@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 80px;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    color: white;
+    padding: 30px 80px ;
+}
+
+button:hover{
+    background-color: green;
+}
+
+body{
+    background-image: url(../abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner.jpg);
+}
